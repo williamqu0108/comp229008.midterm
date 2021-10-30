@@ -1,6 +1,6 @@
 {
-  "name": "week03-009",
-  "version": "0.0.0",
+  "name": "comp229008.midterm",
+  "version": "1.0.1",
   "private": true,
   "scripts": {
     "start": "node ./server.js"
@@ -16,5 +16,23 @@
     "jquery": "^3.6.0",
     "mongoose": "^6.0.8",
     "morgan": "~1.9.1"
-  }
+  },
+  "description": "code example from midterm",
+  "main": "server.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/williamqu0108/comp229008.midterm.git"
+  },
+  "keywords": [
+    "Code",
+    "Example",
+    "Midterm"
+  ],
+  "author": "Haoren Qu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/williamqu0108/comp229008.midterm/issues"
+  },
+  "homepage": "https://github.com/williamqu0108/comp229008.midterm#readme"
 }
